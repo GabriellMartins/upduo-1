@@ -15,7 +15,7 @@ const command = new Command('ajuda', 'help')
             .setColor(beauty.color)
             .setTimestamp(new Date())
             .setFooter(beauty.footer)
-            .addField('gay')
+            .addField('UPDUO')
 
         let botoes = new MessageActionRow().addComponents(
             // botao 1
